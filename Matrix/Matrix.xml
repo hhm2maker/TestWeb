@@ -4,5 +4,8 @@
   <Contact>203null@gmail.com</Contact>
   <Introduce></Introduce>
   <Buttons>
+     <Button hint="你的版本号" text="更新固件"/>
+<Button hint="你的版本号1" text="更新固件"/>
+<Button hint="你的版本号2" text="更新固件"/>
   </Buttons>
 </Blog>
