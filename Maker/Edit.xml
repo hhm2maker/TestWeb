@@ -8,7 +8,10 @@
   <Buttons> 
     <Button hint="改变位置" text="下载并安装" details="将指定的位置替换成新的位置"> 
       <Parameters> 
-        <Parameter>https://www.hhm2maker.com/Maker/setup.xml</Parameter> 
+        <Parameter>ChangeThePosition</Parameter> 
+        <Parameter>改变位置</Parameter> 
+      	<Parameter>https://www.hhm2maker.com/Maker/ChangeThePosition.xml</Parameter>  
+      	<Parameter>https://www.hhm2maker.com/Maker/sample.dll</Parameter> 
       </Parameters> 
     </Button> 
   </Buttons> 
