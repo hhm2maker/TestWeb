@@ -1,11 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<Blog> 
-  <Author>hhm</Author>  
-  <HeadPortrait>https://www.hhm2maker.com/Maker/hhm.jpg</HeadPortrait>  
-  <Contact>https://www.hhm2maker.com</Contact>  
-  <Introduce>安装在线第三方编辑方法示例</Introduce>  
-  <ShortcutName>Maker-Edit</ShortcutName>  
+<BlogPage> 
   <Dll url="https://www.hhm2maker.com/Maker/Online installation editing method.zip" name="OnlineInstallationEditingMethod.dll"/>  
   <Buttons> 
     <Button hint="改变位置" text="下载并安装" details="将指定的位置替换成新的位置"> 
@@ -25,4 +20,4 @@
       </Parameters> 
     </Button> 
   </Buttons> 
-</Blog>
+</BlogPage>

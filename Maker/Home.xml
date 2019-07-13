@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Blog> 
+  <Author>hhm</Author>  
+  <HeadPortrait>https://www.hhm2maker.com/Maker/hhm.jpg</HeadPortrait>  
+  <Contact>https://www.hhm2maker.com</Contact>  
+  <Introduce>安装在线第三方编辑方法示例</Introduce>  
+  <ShortcutName>Maker-Edit</ShortcutName>  
+  <Pages type="ThirdPartyPage">
+    <Page type="ThirdPartyPage" url="edit"/>
+  <Pages>
+</Blog>
