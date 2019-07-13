@@ -6,7 +6,8 @@
   <Contact>https://www.hhm2maker.com</Contact>  
   <Introduce>安装在线第三方编辑方法示例</Introduce>  
   <ShortcutName>Maker-Edit</ShortcutName>  
+  <BaseUrl>https://www.hhm2maker.com/Maker</BaseUrl>  	
   <Pages type="ThirdPartyPage">
-    <Page type="ThirdPartyPage" url="edit"/>
+    <Page type="ThirdPartyPage" url="/edit"/>
   <Pages>
 </Blog>
