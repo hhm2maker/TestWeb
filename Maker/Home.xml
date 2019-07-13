@@ -3,7 +3,10 @@
 <Blog> 
   <Author>hhm</Author>  
   <HeadPortrait>https://www.hhm2maker.com/Maker/hhm.jpg</HeadPortrait>  
-  <Contact>https://www.hhm2maker.com</Contact>  
+  <Contacts>
+    <Contact type="Website" content="https://www.hhm2maker.com"/>
+    <Contact type="Email" content="hhm2maker@qq.com"/>
+  </Contacts>  
   <Introduce>安装在线第三方编辑方法示例</Introduce>  
   <ShortcutName>Maker-Edit</ShortcutName>  
   <BaseUrl>https://www.hhm2maker.com/Maker</BaseUrl>  
