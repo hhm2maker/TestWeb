@@ -8,6 +8,6 @@
   <ShortcutName>Maker-Edit</ShortcutName>  
   <BaseUrl>https://www.hhm2maker.com/Maker</BaseUrl>  
   <Pages> 
-    <Page type="ThirdPartyPage" url="/edit"/> 
+    <Page type="ThirdPartyPage" url="/Edit.xml"/> 
   </Pages> 
 </Blog>
